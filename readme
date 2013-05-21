@@ -1,0 +1,9 @@
+This is how mookiesworld folder structure is implemented.
+-------------------
+dontdeploy = dont deploy to godaddy, dump space/ workign area
+app-engine-cdn = for making website load faster ive out sourced some of the work to google cdn services.
+business card = template
+legacy-mookiesworld = never to be changed, old mookies sight on microsoft live
+site-mookies = actual mookiesworld.com
+site-mookies-kids = alpha testing making a site just for kids
+templates = ideas to copy from when creating a site
