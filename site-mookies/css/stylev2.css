@@ -4,10 +4,14 @@
 }
 
 .style-text {
-	font-family: "Verdana";
+	font-family: "Comic Sans MS";
 	font-size:150%	
 }
 
 .style-title {
         font-family: "Comic Sans MS";
+}
+
+.background-color {
+	background-color: #FFD801;
 }
