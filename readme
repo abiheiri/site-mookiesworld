@@ -7,3 +7,6 @@ legacy-mookiesworld = never to be changed, old mookies sight on microsoft live
 site-mookies = actual mookiesworld.com
 site-mookies-kids = alpha testing making a site just for kids
 templates = ideas to copy from when creating a site
+
+
+background color for index.html is changed in two places css/bootstrap.css and css/stylesv2.css
