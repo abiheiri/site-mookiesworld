@@ -3,3 +3,7 @@ http://24ways.org/2008/using-google-app-engine-as-your-own-cdn/
 no need to increment version in app.yaml b/c you would have to go to web console and tell it to use newer version which i dont know how to do it yet.
 
 if you increment the version number then the changes wont show online b/c like i stated above sentance.
+
+
+
+http://cooltext.com - used for logo in main site
