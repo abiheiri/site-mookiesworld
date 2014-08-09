@@ -5,13 +5,16 @@
 
 .style-text {
 	font-family: "Comic Sans MS";
-	font-size:150%	
+	font-size:200%	
 }
 
 .style-title {
-        font-family: "Comic Sans MS";
+	font-family: 'Shadows Into Light', cursive;
+	font-size:400%	
+
 }
 
 .background-color {
 	background-color: #D1EB78;
 }
+
