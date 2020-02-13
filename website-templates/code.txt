@@ -1,2 +1,0 @@
-require_once('mobile_device_detect.php');
-mobile_device_detect(false,false,true,false,true,true,true,'http://www.mookiesworld.com/mobile.html',false);
